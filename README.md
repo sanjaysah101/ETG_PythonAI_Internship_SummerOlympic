@@ -1,5 +1,5 @@
 # ETG_PythonAI_Internship_SummerOlympic
-ETG Python AI Internship - Summer Olympic Data Analysis Assignment
+<p> ETG Python AI Internship - Summer Olympic Data Analysis Assignment</p>
 
 1.In how many cities Summer Olympics is held so far?
 
@@ -17,12 +17,12 @@ ETG Python AI Internship - Summer Olympic Data Analysis Assignment
 
 8.Which sport is having most female Gold Medalists? (Top 5)
 
-About Project: 
+<h2> About Project: </h2>
 We have to preform detailed exploratory data analysis on Summer Olymics dataset And display the result visually.
 
-Libraries Used: 
+<h3> Libraries Used: </h3>
 Pandas
 Matplotlib
 
-Code Editor Used: 
+<h3> Code Editor Used: </h3>
 visual Studio Code
